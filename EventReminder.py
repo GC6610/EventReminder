@@ -47,8 +47,9 @@ with open("schedule.txt") as myfile:
         myweekschedule[d[0]][2].append(d[3])
 todaysschedule=myweekschedule[weekday][0]
 eventnum=0
-print("Today's events list: ")
-print(myweekschedule[weekday][:2])
+print("Today's events list :")
+for i in range(len(myweekschedule[weekday][0])):
+    print(myweekschedule[weekday][1][i],'at',myweekschedule[weekday][0][i])
 for i in todaysschedule:
     alarm_time = i
 
