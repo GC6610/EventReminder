@@ -47,6 +47,7 @@ with open("schedule.txt") as myfile:
         myweekschedule[d[0]][2].append(d[3])
 todaysschedule=myweekschedule[weekday][0]
 eventnum=0
+print("Today's events list: ")
 print(myweekschedule[weekday][:2])
 for i in todaysschedule:
     alarm_time = i
@@ -94,7 +95,7 @@ for i in todaysschedule:
 
 
 
-
+        
         if alarm_period == current_period:
             if alarm_hour == current_hour:
                 if alarm_min == current_min:
