@@ -1,0 +1,25 @@
+Monday?08:55:00 AM?Computer Organisation Class?url1
+Monday?11:10:00 AM?Maths LA Class?url2
+Monday?12:55:00 PM?EVS Class?url2
+Monday?01:55:00 PM?DSA Tutorial Class?url2
+Wednesday?10:10:00 AM?Computer Organisation Class?url
+Wednesday?12:55:00 PM?DSA Class?url
+Wednesday?02:55:00 PM?VED Class?url
+Tuesday?07:55:00 AM?MATHS CA Class?url
+Tuesday?08:55:10 AM?EVS CLASS?url
+Tuesday?10:10:00 AM?DSA CLASS?url
+Tuesday?12:55:00 PM?Computer Organization Class?url
+Tuesday?02:01:00 AM?DSA Lab?url
+Thursday?08:55:00 AM?Maths LA Class?url2
+Thursday?10:10:00 AM?EVS Class?url2
+Thursday?11:10:00 AM?DSA Class?url2
+Thursday?01:55:00 PM?Hardware Lab?url2
+Friday?08:55:00 AM?DSA Class?url2
+Friday?10:10:00 AM?Maths CA Class?url2
+Friday?11:10:00 AM?Computer organisation Class?url2
+
+
+
+
+
+
