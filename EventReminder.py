@@ -48,6 +48,9 @@ with open("schedule.txt") as myfile:
         myweekschedule[d[0]][2].append(d[3])
 todaysschedule = myweekschedule[weekday][0]
 eventnum = 0
+if len(todaysschedule)==0:
+    print("No events for today Hurray!!")
+    exit()
 print("Today's events list :")
 
 for i in range(len(myweekschedule[weekday][0])):
