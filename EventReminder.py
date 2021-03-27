@@ -39,7 +39,7 @@ myweekschedule = {'Monday': [[], [], []], 'Tuesday': [[], [], []], 'Wednesday': 
 
 with open("schedule.txt") as myfile:
     for line in myfile:
-        d = (line.strip()).split('?')
+        d = (line.strip()).split('||')
         if d[0] == '':
             break
 
